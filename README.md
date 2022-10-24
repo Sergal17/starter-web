@@ -20,4 +20,4 @@ deployment
 
 ### Copyright
 
-2014 git.training
+all rights reserved
